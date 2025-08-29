@@ -1,0 +1,12 @@
+ Название сайта
+title: Мой сайт на GitHub Pages
+# Описание
+description: Мой первый сайт на Jekyll и GitHub Pages
+# Базовый URL (замените username на ваш)
+baseurl: "powerpc2010"
+url: "https://username.github.io"
+# Тема (можно оставить minima)
+theme: minima
+# Плагины
+plugins:
+  - jekyll-feed
